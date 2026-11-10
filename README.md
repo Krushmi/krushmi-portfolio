@@ -2,11 +2,11 @@
 
 Static portfolio site (plain HTML, CSS and a small script, no build step).
 
-Planned hosting: GitHub Pages project page under user Abhi237, repo `krushmi-portfolio`,
-served at https://abhi237.github.io/krushmi-portfolio/
+Planned hosting: GitHub Pages project page under user Krushmi, repo `krushmi-portfolio`,
+served at https://krushmi.github.io/krushmi-portfolio/
 
 ## Publish
-1. Create the repo `krushmi-portfolio` under Abhi237 and push this folder to the `main` branch.
+1. Create the repo `krushmi-portfolio` under Krushmi and push this folder to the `main` branch.
 2. Settings > Pages > Deploy from a branch > `main` / root.
 
 All asset paths are relative (`assets/...`), so the site works under the `/krushmi-portfolio/` subpath and when opened locally.
